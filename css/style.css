@@ -62,9 +62,10 @@ border-radius: 50px;
     "auto auto auto auto auto"
     "auto auto auto auto auto"
     "auto auto auto auto auto";
-    background-color: aqua;
+    background-color: white;
     column-gap: 1em;
     row-gap: 1em;
+    grid
 
 }
 .item{
